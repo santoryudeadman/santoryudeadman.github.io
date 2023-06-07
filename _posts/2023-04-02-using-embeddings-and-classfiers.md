@@ -5,3 +5,8 @@ categories: [ML, HuggingFace]
 tags: [ml]
 mermaid: true
 ---
+## Using Embeddings And Logisitic Classfifiers
+<p>
+Using simple embeddings instead of a reranking model
+</p>
+

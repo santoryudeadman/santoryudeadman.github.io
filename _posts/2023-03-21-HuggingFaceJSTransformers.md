@@ -7,6 +7,7 @@ tags: [ml]
 ---
 ## Transformer Models In the Browser
 <p>
-Transformers are now completely in the web as well thanks to HuggingFace's latest development. 
+Transformers are now completely in the web as well thanks to HuggingFace's latest development.
+They are enabled through WebGPU over vulcan libraries
 </p>
 
